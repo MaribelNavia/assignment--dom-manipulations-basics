@@ -78,6 +78,13 @@ hr.q-divider{
 .answer-box{
   background: #bdc3c7;
   padding: 50px 15px;
+  
+}
+
+.reverse-squares{
+  flex-direction: row-reverse;
+  display: flex;
+  justify-content: center;
 }
 
 .teacher-demo img {
